@@ -3,7 +3,7 @@ package git_project;
 import java.util.Scanner;
 /**
  *
- * @author Heshan Sudarshana
+ * @author Wimukthi Rajapaksha
  */
 public class Git_project {
 
